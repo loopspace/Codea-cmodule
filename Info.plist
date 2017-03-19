@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>cmodule</string>
+		<string>Main</string>
+		<string>CHANGELOG</string>
+		<string>README</string>
+		<string>graph</string>
+	</array>
+	<key>Created</key>
+	<string>2013-05-21 21:37:26 +0000</string>
+	<key>Dependencies</key>
+	<array>
+		<string>Codea Community Tabs</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
